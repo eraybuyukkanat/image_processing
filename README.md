@@ -77,6 +77,6 @@ This repository contains the source code for an image processing project, utiliz
 
 <sub>## License
 
-This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</sub>
+This project is licensed under the MIT License - see the <a href="LICENSE.txt">LICENSE</a> file for details.</sub>
 
 
